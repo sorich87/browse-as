@@ -5,7 +5,7 @@ Requires at least: 3.1
 Tested up to: 3.2
 Stable tag: 0.1
 
-Allow your site administrators, editors and other roles with the 'edit_users' capability to browser the site as a user they can edit.
+Allow your site administrators, editors and other roles with the 'edit_users' capability to browse the site as a user they can edit.
 
 == Description ==
 
