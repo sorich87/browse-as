@@ -33,7 +33,7 @@ License: GPL2
  *
  * @since 0.1
  **/
-class IS_BA_Import_Users {
+class IS_BA_Browse_As {
 
 	/**
 	 * Class contructor
@@ -159,4 +159,4 @@ class IS_BA_Import_Users {
 
 }
 
-new IS_BA_Import_Users;
+new IS_BA_Browse_As;
