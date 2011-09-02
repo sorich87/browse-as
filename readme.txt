@@ -9,13 +9,13 @@ Allow your site administrators, editors and other roles with the 'edit_users' ca
 
 == Description ==
 
-Simple and secure way to allow your site administrators, editors and other roles with the 'edit_users' capability to browser the site as a user they can edit. Install the plugin, go to the users list in the admin, click on the link next a user name and you can browse the site as that user. You don't need to know the user's password.
+Simple and secure way to allow your site administrators, editors and other roles with the 'edit_users' capability to browse the site as a user they can edit. Install the plugin, go to the users list in the admin, click on the link next a user name and you can browse the site as that user. You don't need to know the user's password!
 
 = Features =
 
-* Browse your site as another user then yours.
+* Browse your site as another user than yours.
 
-For feature request and bug reports, please use the forums.
+For feature request and bug reports, [please use the forums](http://wordpress.org/tags/browse-as?forum_id=10#postform).
 
 == Installation ==
 
