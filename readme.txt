@@ -53,6 +53,8 @@ Go to the users list in the admin, click on the 'Browse As' link next a user nam
 == Screenshots ==
 
 1. Browse As link
+1. Notice in admin
+1. Notice on fronted
 
 == Changelog ==
 
