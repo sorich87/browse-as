@@ -1,13 +1,13 @@
 <?php
 /**
  * @package Browse_As
- * @version 0.1
+ * @version 0.2
  */
 /*
 Plugin Name: Browse As
 Plugin URI: http://pubpoet.com/plugins/
 Description: Allow your site administrators, editors and other roles with the 'edit_users' capability to browser the site as a user they can edit.
-Version: 0.1
+Version: 0.2
 Author: PubPoet
 Author URI: http://pubpoet.com/
 License: GPL2
