@@ -3,7 +3,7 @@ Contributors: sorich87
 Tags: admin, browse as, login as
 Requires at least: 3.1
 Tested up to: 3.2
-Stable tag: 0.1
+Stable tag: 0.2
 
 Allow your site administrators, editors and other roles with the 'edit_users' capability to browse the site as a user they can edit.
 
@@ -60,10 +60,16 @@ Go to the users list in the admin, click on the 'Browse As' link next a user nam
 
 == Changelog ==
 
+= 0.2 =
+* Typos fixes. Recommendation for the plugin User Switching.
+
 = 0.1 =
 * First release.
 
 == Upgrade Notice ==
+
+= 0.2 =
+I recommend using the plugin User Switching instead.
 
 = 0.1 =
 First release.
