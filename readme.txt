@@ -9,6 +9,8 @@ Allow your site administrators, editors and other roles with the 'edit_users' ca
 
 == Description ==
 
+**After developing this plugin, I discovered the plugin [User Switching](http://wordpress.org/extend/plugins/user-switching/) by [John Blackbourn](http://profiles.wordpress.org/users/johnbillion/) which does the same thing, and more, and is very well coded. I would recommend using it instead.**
+
 Simple and secure way to allow your site administrators, editors and other roles with the 'edit_users' capability to browse the site as a user they can edit. Install the plugin, go to the users list in the admin, click on the link next a user name and you can browse the site as that user. You don't need to know the user's password!
 
 = Features =
